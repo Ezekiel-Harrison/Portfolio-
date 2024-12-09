@@ -13,12 +13,12 @@ Hello! I'm Jonas Yaw Amankwah Harrison, a data analyst, business analyst, and se
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**I developed this 2021 Bono East Population Development, Divisions With Its Population Structure Analysis for UNHCR  using Ghana 2021 population and housing census Dataset.**
+![image]()
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
