@@ -25,7 +25,7 @@ This project came to existence due to the influx of Burkina Faso migrants, asylu
 
 [Read More](https://www.linkedin.com/in/jonas-amankwah-harrison-aa2514273
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**The Middle East(Israel & Palestine) Historical Conflicts Analysis Report using fatalities_isr_pse_conflict Dataset.**
 
 ![image]()
 
