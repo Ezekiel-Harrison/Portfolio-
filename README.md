@@ -29,9 +29,9 @@ This project came to existence due to the influx of Burkina Faso migrants, asylu
 
 ![image]()
 
-On April 15, 1912, during her maiden voyage, the widely considered 鈥渦nsinkable鈥� RMS Titanic sank after colliding with an iceberg. 
+This project provides informatics on Fatality Trend, Demographic Analysis, Injury Analysis,Weapon used and Hostilities Participation Analysis from 2000 to 2020 . 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/in/jonas-jonas-amankwah-harrison-aa2514273)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
