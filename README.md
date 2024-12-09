@@ -7,7 +7,7 @@ Hello! I'm Jonas Yaw Amankwah Harrison, a data analyst, business analyst, and se
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a data, business and security intelligence analyst i provide insights, predict, forecast, trends and patterns that drive decision-making process*
 
 **- 鉁� Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
