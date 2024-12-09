@@ -35,7 +35,7 @@ This project provides informatics on Fatality Trend, Demographic Analysis, Injur
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image]()
 
 Unfortunately, there weren鈥檛 enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
