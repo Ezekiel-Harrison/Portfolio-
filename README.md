@@ -33,11 +33,11 @@ This project provides informatics on Fatality Trend, Demographic Analysis, Injur
 
 [Read More](https://www.linkedin.com/in/jonas-jonas-amankwah-harrison-aa2514273)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Breakdown of Ghana's Arrival & Depature Numbers By Nationals in 2023 Report using the Ghana Immigration Service arrival and departure 2023 Dataset.**
 
 ![image]()
 
-Unfortunately, there weren鈥檛 enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+This project was developed by the Kintampo Municipal Command to enable the service know the aggregation of arrival and departure of foreigners to be inculcated in the Service Report. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
