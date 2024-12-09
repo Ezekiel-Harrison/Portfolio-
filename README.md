@@ -20,7 +20,7 @@ Hello! I'm Jonas Yaw Amankwah Harrison, a data analyst, business analyst, and se
 **I developed this 2021 Bono East Population Development, Divisions With Its Population Structure Analysis for UNHCR  using Ghana 2021 population and housing census Dataset.**
 ![image]()
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This project came to existence due to the influx of Burkina Faso migrants, asylum seekers and refugees to aid Metropolitan, Municipal and Districts Assemblies(MMDA'S) during thier development plan.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
