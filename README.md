@@ -7,7 +7,11 @@ Hello! I'm Jonas Yaw Amankwah Harrison, a data analyst, business analyst, and se
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a data, business and security intelligence analyst i provide insights, predict, forecast, trends and patterns that drive decision-making process*
+*As a data, business and security intelligence analyst i provide insights, predict, forecast, trends and patterns that drive decision-making process using Business Intelligence Tools and Microsoft Excel
+*I offer comprehensive data analysis, statistical analysis, data visualization, interactive dashboard, and data-driven decision -making.
+*I provide in-depth analysis to help make data-driven decisions, optimize process, and drive business growth.
+
+
 
 **- 鉁� Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
