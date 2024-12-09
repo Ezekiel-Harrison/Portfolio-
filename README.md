@@ -23,7 +23,7 @@ Hello! I'm Jonas Yaw Amankwah Harrison, a data analyst, business analyst, and se
 This project came to existence due to the influx of Burkina Faso migrants, asylum seekers and refugees to aid Metropolitan, Municipal and Districts Assemblies(MMDA'S) during thier development plan.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/in/jonas-amankwah-harrison-aa2514273
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
