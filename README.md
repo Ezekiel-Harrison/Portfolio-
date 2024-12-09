@@ -49,7 +49,7 @@ This project was developed by the Kintampo Municipal Command to enable the servi
   <tbody>
     <tr>
       <td>馃摟</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto: harrisonrealtyconsult@gmail.com
     </tr>
     <tr>
       <td>馃摓</td>
