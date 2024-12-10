@@ -39,7 +39,7 @@ This project provides informatics on Fatality Trend, Demographic Analysis, Injur
 
 This project was developed by the Kintampo Municipal Command to enable the service know the aggregation of arrival and departure of foreigners to be inculcated in the Service Report. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="17 How to Present Data to Executives by jonas yaw amankwah harrison.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -53,19 +53,19 @@ This project was developed by the Kintampo Municipal Command to enable the servi
     </tr>
     <tr>
       <td>馃摓</td>
-      <td>(234) 816-763-7212</td>
+      <td>(233) 245-543-551</td>
     </tr>
     <tr>
       <td>馃搷</td>
-      <td>PH, Nigeria</td>
+      <td>Accra, Ghana</td>
     </tr>
     <tr>
       <td>猬囷笍</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://ezekiel-harrison.github.io/portfolio-/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>馃寪</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/jonas-amankwah-harrison-aa2514273">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>馃摵</td>
