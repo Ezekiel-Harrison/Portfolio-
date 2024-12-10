@@ -57,7 +57,7 @@ This project was developed by the Kintampo Municipal Command to enable the servi
     </tr>
     <tr>
       <td>馃搷</td>
-      <td>PH, Ghana</td>
+      <td>Accra, Ghana</td>
     </tr>
     <tr>
       <td>猬囷笍</td>
@@ -69,7 +69,7 @@ This project was developed by the Kintampo Municipal Command to enable the servi
     </tr>
     <tr>
       <td>馃摵</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
