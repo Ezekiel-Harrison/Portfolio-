@@ -23,7 +23,7 @@ Hello! I'm Jonas Yaw Amankwah Harrison, a data analyst, business analyst, and se
 This project came to existence due to the influx of Burkina Faso migrants, asylum seekers and refugees to aid Metropolitan, Municipal and Districts Assemblies(MMDA'S) during thier development plan.
 
 
-[Read More](https://www.linkedin.com/in/jonas-amankwah-harrison-aa2514273
+[Read More](https://www.linkedin.com/in/jonas-amankwah-harrison-aa2514273)
 
 **The Middle East(Israel & Palestine) Historical Conflicts Analysis Report using fatalities_isr_pse_conflict Dataset.**
 
