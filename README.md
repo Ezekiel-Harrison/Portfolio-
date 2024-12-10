@@ -49,7 +49,8 @@ This project was developed by the Kintampo Municipal Command to enable the servi
   <tbody>
     <tr>
       <td>馃摟</td>
-      <td><a href="mailto: harrisonrealtyconsult@gmail.com
+    <td><a href="mailto: harrisonrealtyconsult@gmail.com">harrisonrealtyconsult@gmail.com</a></td>
+   
     </tr>
     <tr>
       <td>馃摓</td>
