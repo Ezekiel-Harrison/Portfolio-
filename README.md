@@ -49,8 +49,7 @@ This project was developed by the Kintampo Municipal Command to enable the servi
   <tbody>
     <tr>
       <td>馃摟</td>
-    <td><a href="mailto: harrisonrealtyconsult@gmail.com">harrisonrealtyconsult@gmail.com</a></td>
-   
+      <td><a href="mailto:harrisonrealtyconsult@gmail.com">harrisonrealtyconsult@gmail.com</a></td>
     </tr>
     <tr>
       <td>馃摓</td>
@@ -58,7 +57,7 @@ This project was developed by the Kintampo Municipal Command to enable the servi
     </tr>
     <tr>
       <td>馃搷</td>
-      <td>Accra, Ghana</td>
+      <td>PH, Ghana</td>
     </tr>
     <tr>
       <td>猬囷笍</td>
@@ -70,10 +69,15 @@ This project was developed by the Kintampo Municipal Command to enable the servi
     </tr>
     <tr>
       <td>馃摵</td>
-      
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
+
+   
+
+
+
 
    
 
